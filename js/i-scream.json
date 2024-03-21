@@ -29,5 +29,12 @@
         "type": "ice-cream",
         "ingredients": ["Pistachio syrup","Pistachio nuts","Vanila Base"],
         "image": "https://vraj1606.github.io/JSWeek_11/images/ice-cream-xtra1.svg"  
+    },
+    {
+        "name":"Orange",
+        "calories":246,
+        "type": "ice-cream",
+        "ingredients": ["Orange syrup","Orange Chunks","Vanila Base"],
+        "image": "https://vraj1606.github.io/JSWeek_11/images/ice-cream-xtra2.svg"  
     }]
 }
