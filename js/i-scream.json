@@ -22,5 +22,12 @@
         "type": "milkshake",
         "ingredients": ["Strawberry Syrup","Sprinkles","Vanila Base", "Chocolate Syrup"],
         "image": "https://vraj1606.github.io/JSWeek_11/images/strawberry-sprinkle.svg" 
+    },
+    {
+        "name":"Pistachio",
+        "calories":150,
+        "type": "ice-cream",
+        "ingredients": ["Pistachio syrup","Pistachio nuts","Vanila Base"],
+        "image": "https://vraj1606.github.io/JSWeek_11/images/ice-cream-xtra1.svg"  
     }]
 }
