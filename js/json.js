@@ -60,7 +60,6 @@ function showTopFlavor(jsonData)
         image.setAttribute("src", topFlavors[i].image);
 // STEP 10g: Build a loop for the ingredients array in the JSON
         const ingredients = topFlavors[i].ingredients;
-
         for(let j=0; j < ingredients.length; j++)
         {
             const listItem = document.createElement("li");
@@ -75,7 +74,6 @@ function showTopFlavor(jsonData)
         article.appendChild(list);
         section.appendChild(article);
     }
-
 }
 
 // STEP 11: Add a 3rd flavour of ice cream to the local JSON file, making use of the /images/strawberry-sprinkle.svg image
